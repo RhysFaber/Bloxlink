@@ -16,7 +16,7 @@ NOT_PRO = "**Notice - Server Not Pro**\nPro can only be used on " \
 
 WELCOME_MESSAGE = "\n\n".join([
                     "Thanks for adding Bloxlink! <:BloxlinkHappy:506622933339340830>",
-                    ":exclamation: Run `/commands` to view a list of commands.",
+                    ":exclamation: Run `/help` to view a list of commands.",
                     ":gear: Run `/setup` for an all-in-one command to set-up your server with Bloxlink.",
                     ":gear: If you're looking to change specific settings, use the `/settings` command.",
                     ":woman_office_worker: if you're looking to link Roblox groups, use the `/bind` command.",
